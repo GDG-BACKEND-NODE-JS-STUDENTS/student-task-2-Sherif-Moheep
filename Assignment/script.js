@@ -45,3 +45,5 @@ console.log("Type conversion");
 let num = 5;
 let num_to_str = String(num);
 console.log(num_to_str); // "5"
+console.log(typeof num_to_str); // "string"
+console.log("\n");
